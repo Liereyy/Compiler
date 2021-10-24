@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -pedantic   CMakeFiles/myParser.dir/src/sysyfDriver.cpp.o CMakeFiles/myParser.dir/src/main.cpp.o CMakeFiles/myParser.dir/src/SyntaxTree.cpp.o CMakeFiles/myParser.dir/src/SyntaxTreePrinter.cpp.o CMakeFiles/myParser.dir/src/ErrorReporter.cpp.o CMakeFiles/myParser.dir/sysyfParser.cpp.o CMakeFiles/myParser.dir/sysyfScanner.cpp.o  -o myParser 
